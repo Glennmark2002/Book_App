@@ -4,6 +4,7 @@ FRONT ---
   npm install react-router-dom 
   npm install axios
   npm install react-icons //Not recommended to use
+  npm i notistack
 
 BACK --- 
 
