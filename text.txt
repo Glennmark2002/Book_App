@@ -7,11 +7,13 @@ BACK ---
   npm install -y
   npm install express
   npm install nodemon
+  npm install mongoose
 
 
 GIT ---
 
   git init
   git add .
-  git comming -m 'Put some message' 
+  git commit -m 'Put some message' 
+  the rest on github
   
