@@ -1,0 +1,17 @@
+FRONT --- 
+
+  npm create vite@latest 
+
+BACK --- 
+
+  npm install -y
+  npm install express
+  npm install nodemon
+
+
+GIT ---
+
+  git init
+  git add .
+  git comming -m 'Put some message' 
+  
