@@ -1,6 +1,7 @@
 FRONT --- 
 
-  npm create vite@latest 
+  npm create vite@latest
+  npm install react-router-dom 
 
 BACK --- 
 
@@ -9,7 +10,6 @@ BACK ---
   npm install nodemon
   npm install mongoose
   npm install cors
-
 
 GIT ---
 
