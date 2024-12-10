@@ -3,7 +3,7 @@
 function EditBook() {
   return (
     <div>
-      
+      EDIT
     </div>
   );
 }

@@ -3,7 +3,7 @@
 function DeleteBook() {
   return (
     <div>
-      
+      DELETE
     </div>
   );
 }
