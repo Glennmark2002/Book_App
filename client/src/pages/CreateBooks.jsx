@@ -38,7 +38,7 @@ function CreateBooks() {
       <BackButton /> 
       <h1 className='text-3xl my-4'> Create Book </h1>
       {loading ? ( <Spinner /> ) :
-                 ( <div className='flex flex-col border-2 border-sky-400 rounded-xl w-[600px] p-4 mx-auto'>
+                 ( <div className='flex flex-col border-2 border-sky-400 rounded-xl max-w-[600px] p-4 mx-auto'>
                       <div className='my-4'>
                         <input type="text" value={title} onChange={(e) => setTitle(e.target.value)} placeholder="Title" className='border-2 border-gray-500 px-4 py-2 w-full'  />
                         <input type="text" value={author} onChange={(e) => setAuthor(e.target.value)} placeholder="Author" className='border-2 border-gray-500 px-4 py-2 w-full'  />
